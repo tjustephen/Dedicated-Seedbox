@@ -10,7 +10,8 @@ I am not actively managing this script, please debug it yourself
 ## Usage
 
 ### Some Dependency
-`apt-get install python unzip python-twisted python-openssl python-setuptools intltool python-xdg python-chardet geoip-database python-libtorrent python-notify python-pygame python-glade2 librsvg2-common xdg-utils python-mako
+`apt-get install python unzip python-twisted python-openssl python-setuptools intltool python-xdg python-chardet geoip-database python-libtorrent python-notify python-pygame python-glade2 librsvg2-common xdg-utils python-mako`
+
 ### Install.sh
 `bash <(wget -qO- https://raw.githubusercontent.com/jerry048/Dedicated-Seedbox/main/Install.sh) <username> <password> <Cache Size(unit:GiB)>`
 
